@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[My VSCode profiles/settings](/vscode)
+[My VSCode profiles](/vscode)
